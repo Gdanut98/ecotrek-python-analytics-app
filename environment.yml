@@ -1,0 +1,13 @@
+name: ecotrek-analytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - streamlit
+  - wordcloud
+  - statsmodels
+  - jupyter
